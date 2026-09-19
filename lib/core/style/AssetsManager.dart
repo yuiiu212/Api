@@ -1,8 +1,7 @@
 class AssetsManager {
-  //pathes
+  
   static const String IconPath = 'assets/icons/';
   static const String ImagePath = 'assets/images/';
-  // assets
   static const String Logo = '${IconPath}Logo.png';
   static const String AppleIcon = '${IconPath}Apple.png';
   static const String FacebookIcon = '${IconPath}Facebook.png';
